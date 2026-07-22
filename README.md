@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan V L</h1>
+<h1 align="center">Hi, I'm Sujan V L</h1>
 
 <h3 align="center">
 Python Backend Developer | Software Engineer | Django | REST APIs | App Developer
