@@ -12,23 +12,22 @@ Building scalable backend systems  & modern web applications.
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
+ Computer Science Engineering Graduate
 
-🎓 Computer Science Engineering Graduate
+ Business Development Intern @ **Swizosoft**
 
-💼 Business Development Intern @ **Swizosoft**
+ Currently building **Freelancer Hiring & Project Management Portal**
 
-🚀 Currently building **Freelancer Hiring & Project Management Portal**
+ Developing cross-platform applications using **Flutter**
 
-📱 Developing cross-platform applications using **Flutter**
-
-🌱 Currently learning
+ Currently learning
 
 - System Design
 - AWS
 - Software Architecture
 
-🎯 2026 Goals
+ 2026 Goals
 
 - Contribute to Open Source
 - Solve DSA daily
@@ -37,7 +36,7 @@ Building scalable backend systems  & modern web applications.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -73,39 +72,39 @@ Building scalable backend systems  & modern web applications.
 
 ---
 
-# 💼 Featured Projects
+#  Featured Projects
 
-### 🚀 Freelancer Hiring & Project Management Portal
+###  Freelancer Hiring & Project Management Portal
 
 A Django-based platform that connects clients and freelancers with project posting, bidding, authentication, and project management features.
 
 ---
 
-### 💰 Loan Approval Prediction
+###  Loan Approval Prediction
 
 Machine Learning project using classification algorithms for loan eligibility prediction.
 
 ---
 
-### 🤝 Crowdfunding Portal
+###  Crowdfunding Portal
 
 A secure crowdfunding platform for campaign creation, fundraising, and donation tracking.
 
 ---
 
-### 📱 Flutter Mobile Applications
+###  Flutter Mobile Applications
 
 Cross-platform mobile applications built using Flutter and Dart.
 
 ---
 
-### 💻 DSA Repository
+###  DSA Repository
 
 Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 ✔ System Design
 
@@ -119,7 +118,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -135,7 +134,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 
 
-# 💻 LeetCode
+#  LeetCode
 
 <p align="center">
 
@@ -145,7 +144,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p>
 
