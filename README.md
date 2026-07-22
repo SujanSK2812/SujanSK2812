@@ -151,12 +151,6 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 </p>
 
-Replace
-
-Sujan_2812
-
-with your username.
-
 ---
 
 # 🌐 Connect With Me
