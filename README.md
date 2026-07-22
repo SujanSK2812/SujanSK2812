@@ -133,15 +133,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujanSK2812&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 💻 LeetCode
 
