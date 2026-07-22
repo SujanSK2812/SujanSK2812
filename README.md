@@ -131,18 +131,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 📊 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSK2812&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-
----
 
 # 📈 Contribution Graph
 
@@ -164,7 +153,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 Replace
 
-YOUR_LEETCODE_USERNAME
+Sujan_2812
 
 with your username.
 
