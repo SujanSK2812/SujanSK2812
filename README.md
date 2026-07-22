@@ -19,7 +19,7 @@ Building scalable backend systems  & modern web applications.
 
  Currently building **Freelancer Hiring & Project Management Portal**
 
- Developing cross-platform applications using **Flutter**
+
 
  Currently learning
 
