@@ -165,9 +165,6 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/SujanSK2812">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 </p>
 
