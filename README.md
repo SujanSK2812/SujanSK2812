@@ -8,11 +8,7 @@ Python Backend Developer | Software Engineer | Django | REST APIs | App Develope
 Building scalable backend systems  & modern web applications.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SujanSK2812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/SujanSK2812?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/SujanSK2812?affiliations=OWNER&style=social" />
-</p>
+
 
 ---
 
