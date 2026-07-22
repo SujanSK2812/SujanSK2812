@@ -167,13 +167,3 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 
 </p>
-
----
-
-# 💬 Quote
-
-> "Success is built one commit at a time."
-
----
-
-⭐ Thanks for visiting my profile!
