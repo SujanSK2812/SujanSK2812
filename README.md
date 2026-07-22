@@ -13,11 +13,12 @@ Building scalable backend systems  & modern web applications.
 ---
 
 #  About Me
- Computer Science Engineering Graduate
 
- Business Development Intern @ **Swizosoft**
-
- Currently building **Freelancer Hiring & Project Management Portal**
+ Backend Developer with a strong foundation in **Python, Django, REST APIs, PostgreSQL**, and web application develop-
+ment. Currently working as a Business Development Intern at **Swizosoft Private Limited**, where I have strengthened
+communication, stakeholder management, and problem-solving skills. Passionate about building scalable backend systems
+and continuously improving through Data Structures and Algorithms practice on LeetCode and GeeksforGeeks. Seeking an
+entry-level Software Developer role to contribute to high-quality software solutions.
 
 
 
