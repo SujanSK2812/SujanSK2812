@@ -1,35 +1,23 @@
-<h1 align="center">Hi, I'm Sujan V L</h1>
-
+<h1 align="center">Hi, I'm Sujan V L 👋</h1>
 <h3 align="center">
 Python Backend Developer | Software Engineer | Django | REST APIs | App Developer
 </h3>
-
 <p align="center">
-Building scalable backend systems  & modern web applications.
+Building scalable backend systems & modern web applications.
 </p>
-
-
 
 ---
 
-#  About Me
+## 🚀 About Me
 
- Backend Developer with a strong foundation in **Python, Django, REST APIs, PostgreSQL**, and web application develop-
-ment. Currently working as a Business Development Intern at **Swizosoft Private Limited**, where I have strengthened
-communication, stakeholder management, and problem-solving skills. Passionate about building scalable backend systems
-and continuously improving through Data Structures and Algorithms practice on LeetCode and GeeksforGeeks. Seeking an
-entry-level Software Developer role to contribute to high-quality software solutions.
+Backend Developer with a strong foundation in **Python, Django, REST APIs, PostgreSQL**, and web application development. Currently working as a Business Development Intern at **Swizosoft Private Limited**, where I have strengthened communication, stakeholder management, and problem-solving skills. Passionate about building scalable backend systems and continuously improving through Data Structures and Algorithms practice on LeetCode and GeeksforGeeks. Seeking an entry-level Software Developer role to contribute to high-quality software solutions.
 
-
-
- Currently learning
-
+**🔭 Currently learning**
 - System Design
 - AWS
 - Software Architecture
 
- 2026 Goals
-
+**🎯 2026 Goals**
 - Contribute to Open Source
 - Solve DSA daily
 - Build scalable backend applications
@@ -37,34 +25,29 @@ entry-level Software Developer role to contribute to high-quality software solut
 
 ---
 
-#  Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,dart" />
 </p>
 
 ### Frameworks
-
 <p>
 <img src="https://skillicons.dev/icons?i=django,react,flutter" />
 </p>
 
 ### Database
-
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 ### Cloud & DevOps
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
 </p>
 
 ### Libraries
-
 - NumPy
 - Pandas
 - Matplotlib
@@ -73,89 +56,58 @@ entry-level Software Developer role to contribute to high-quality software solut
 
 ---
 
-#  Featured Projects
+## 💼 Featured Projects
 
-###  Freelancer Hiring & Project Management Portal
-
+### 🔹 Freelancer Hiring & Project Management Portal
 A Django-based platform that connects clients and freelancers with project posting, bidding, authentication, and project management features.
 
----
-
-###  Loan Approval Prediction
-
+### 🔹 Loan Approval Prediction
 Machine Learning project using classification algorithms for loan eligibility prediction.
 
----
-
-###  Crowdfunding Portal
-
+### 🔹 Crowdfunding Portal
 A secure crowdfunding platform for campaign creation, fundraising, and donation tracking.
 
----
-
-###  Flutter Mobile Applications
-
+### 🔹 Flutter Mobile Applications
 Cross-platform mobile applications built using Flutter and Dart.
 
----
-
-###  DSA Repository
-
+### 🔹 DSA Repository
 Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-#  Currently Learning
+## 📚 Currently Learning
 
 ✔ System Design
-
 ✔ Low-Level Design (LLD)
-
 ✔ High-Level Design (HLD)
-
 ✔ AWS Cloud
-
 ✔ Design Patterns
 
 ---
 
-# GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SujanSK2812&theme=tokyonight"/>
-
 </p>
 
 ---
 
-
-
-
-
-#  LeetCode
+## 🏆 LeetCode
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/Sujan_2812?theme=dark&font=Karma"/>
-
 </p>
 
 ---
 
-#  Connect With Me
+## 📫 Connect With Me
 
 <p>
-
 <a href="https://linkedin.com/in/sujan-v-l-a91842300">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto:sujanshettysk28@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-
 </p>
