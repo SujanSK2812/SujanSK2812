@@ -102,7 +102,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 ---
 
 ## 📫 Connect With Me
-<a href="https://sujansk2812.github.io/s_portfolio.com" target="_blank">
+<a href="https://sujansk2812.github.io/s_portfolio" target="_blank">
 <img src="https://skillicons.dev/icons?i=htmx" height="48"/>
 </a>
 <p>
