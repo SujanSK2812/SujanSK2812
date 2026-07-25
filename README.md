@@ -102,12 +102,13 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 ---
 
 ## 📫 Connect With Me
-<a href="https://sujansk2812.github.io/s_portfolio" target="_blank">
-<img src="https://skillicons.dev/icons?i=htmx" height="48"/>
-</a>
+
 <p>
 <a href="https://linkedin.com/in/sujan-v-l-a91842300">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+  <a href="https://sujansk2812.github.io/s_portfolio" target="_blank">
+<img src="https://skillicons.dev/icons?i=htmx" height="48"/>
 </a>
 <a href="mailto:sujanshettysk28@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
