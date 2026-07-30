@@ -16,7 +16,7 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 
 ---
 
-# 💫 About Me
+#  About Me
 
 I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**.
 
@@ -26,7 +26,7 @@ I'm actively improving my software engineering skills through **Data Structures 
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 - System Design
 - Software Architecture
@@ -37,7 +37,7 @@ I'm actively improving my software engineering skills through **Data Structures 
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -73,18 +73,18 @@ I'm actively improving my software engineering skills through **Data Structures 
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 💼 Freelancer Hiring & Project Management Portal
+###  Freelancer Hiring & Project Management Portal
 A Django-based platform connecting clients and freelancers with authentication, project posting, bidding, and project management.
 
-### 🤖 Loan Approval Prediction
+###  Loan Approval Prediction
 Machine Learning application that predicts loan eligibility using classification algorithms.
 
-### 💰 Crowdfunding Portal
+###  Crowdfunding Portal
 A secure crowdfunding platform supporting campaign creation, fundraising, and donation tracking.
 
-### 📱 Flutter Applications
+###  Flutter Applications
 Cross-platform mobile applications built using Flutter and Dart.
 
 ### 🧩 DSA Repository
@@ -102,20 +102,18 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SujanSK2812&show_icons=true&theme=tokyonight&hide_border=true" />
+  
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SujanSK2812&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSK2812&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
-# 🏆 LeetCode
+#  LeetCode
 
 <p align="center">
 
@@ -125,7 +123,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
