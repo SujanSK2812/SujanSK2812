@@ -1,53 +1,70 @@
-<h1 align="center">Hi, I'm Sujan V L 👋</h1>
+<h1 align="center">Hi 👋, I'm Sujan V L</h1>
+
 <h3 align="center">
-Python Backend Developer | Software Engineer | Django | REST APIs | App Developer
+Python Backend Developer • Django • REST APIs • Software Engineer
 </h3>
+
 <p align="center">
-Building scalable backend systems & modern web applications.
+Building scalable backend systems, RESTful APIs, and modern web applications.
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/sujan-v-l-a91842300">LinkedIn</a> •
+<a href="https://sujansk2812.github.io/s_portfolio">Portfolio</a> •
+<a href="mailto:sujanshettysk28@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-Backend Developer with a strong foundation in **Python, Django, REST APIs, PostgreSQL**, and web application development. Currently working as a Business Development Intern at **Swizosoft Private Limited**, where I have strengthened communication, stakeholder management, and problem-solving skills. Passionate about building scalable backend systems and continuously improving through Data Structures and Algorithms practice on LeetCode and GeeksforGeeks. Seeking an entry-level Software Developer role to contribute to high-quality software solutions.
+I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**.
 
-**🔭 Currently learning**
-- System Design
-- AWS
-- Software Architecture
+Currently working as a **Business Development Intern at Swizosoft Private Limited**, where I've strengthened my communication, stakeholder management, and problem-solving skills.
 
-**🎯 2026 Goals**
-- Contribute to Open Source
-- Solve DSA daily
-- Build scalable backend applications
-- Master Cloud Technologies
+I'm actively improving my software engineering skills through **Data Structures & Algorithms**, backend development, and system design while preparing for Software Engineer roles.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Learning
+
+- System Design
+- Software Architecture
+- AWS Cloud
+- Design Patterns
+- High-Level Design (HLD)
+- Low-Level Design (LLD)
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,dart" />
 </p>
 
-### Frameworks
+### Backend & Frameworks
+
 <p>
 <img src="https://skillicons.dev/icons?i=django,react,flutter" />
 </p>
 
-### Database
+### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### Cloud & DevOps
+### Tools & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
 </p>
 
 ### Libraries
+
 - NumPy
 - Pandas
 - Matplotlib
@@ -56,61 +73,75 @@ Backend Developer with a strong foundation in **Python, Django, REST APIs, Postg
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Freelancer Hiring & Project Management Portal
-A Django-based platform that connects clients and freelancers with project posting, bidding, authentication, and project management features.
+### 💼 Freelancer Hiring & Project Management Portal
+A Django-based platform connecting clients and freelancers with authentication, project posting, bidding, and project management.
 
-### 🔹 Loan Approval Prediction
-Machine Learning project using classification algorithms for loan eligibility prediction.
+### 🤖 Loan Approval Prediction
+Machine Learning application that predicts loan eligibility using classification algorithms.
 
-### 🔹 Crowdfunding Portal
-A secure crowdfunding platform for campaign creation, fundraising, and donation tracking.
+### 💰 Crowdfunding Portal
+A secure crowdfunding platform supporting campaign creation, fundraising, and donation tracking.
 
-### 🔹 Flutter Mobile Applications
+### 📱 Flutter Applications
 Cross-platform mobile applications built using Flutter and Dart.
 
-### 🔹 DSA Repository
+### 🧩 DSA Repository
 Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-## 📚 Currently Learning
+# 🎯 2026 Goals
 
-✔ System Design
-✔ Low-Level Design (LLD)
-✔ High-Level Design (HLD)
-✔ AWS Cloud
-✔ Design Patterns
+- 🌱 Contribute to Open Source
+- 💻 Solve DSA Daily
+- 🚀 Build Scalable Backend Applications
+- ☁️ Master AWS & Cloud Technologies
+- 📚 Become a Better Software Engineer
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SujanSK2812&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🏆 LeetCode
+# 🏆 LeetCode
 
 <p align="center">
+
 <img src="https://leetcard.jacoblin.cool/Sujan_2812?theme=dark&font=Karma"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p>
+<p align="left">
+
 <a href="https://linkedin.com/in/sujan-v-l-a91842300">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-  <a href="https://sujansk2812.github.io/s_portfolio" target="_blank">
-<img src="https://skillicons.dev/icons?i=htmx" height="48"/>
+
+<a href="https://sujansk2812.github.io/s_portfolio">
+<img src="https://skillicons.dev/icons?i=htmx"/>
 </a>
+
 <a href="mailto:sujanshettysk28@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! Feel free to connect and collaborate.
 </p>
