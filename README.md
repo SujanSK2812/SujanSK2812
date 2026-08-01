@@ -10,7 +10,7 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 
 <p align="center">
 <a href="https://linkedin.com/in/sujan-v-l-a91842300">LinkedIn</a> •
-<a href="https://sujansk2812.github.io/s_portfolio">Portfolio</a> •
+<a href="https://sujansk2812.github.io/s-portfolio">Portfolio</a> •
 <a href="mailto:sujanshettysk28@gmail.com">Email</a>
 </p>
 
