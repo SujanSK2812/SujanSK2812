@@ -131,7 +131,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://sujansk2812.github.io/s_portfolio">
+<a href="https://sujansk2812.github.io/s-portfolio">
 <img src="https://skillicons.dev/icons?i=htmx"/>
 </a>
 
