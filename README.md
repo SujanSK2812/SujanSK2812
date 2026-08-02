@@ -78,14 +78,10 @@ I'm actively improving my software engineering skills through **Data Structures 
 ###  Freelancer Hiring & Project Management Portal
 A Django-based platform connecting clients and freelancers with authentication, project posting, bidding, and project management.
 
-###  Loan Approval Prediction
-Machine Learning application that predicts loan eligibility using classification algorithms.
 
 ###  Crowdfunding Portal
 A secure crowdfunding platform supporting campaign creation, fundraising, and donation tracking.
 
-###  Flutter Applications
-Cross-platform mobile applications built using Flutter and Dart.
 
 ### 🧩 DSA Repository
 Daily LeetCode and GeeksforGeeks solutions implemented in Python.
