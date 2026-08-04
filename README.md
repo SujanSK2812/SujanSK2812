@@ -98,7 +98,6 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-GitHub Stats
 
 <!-- <p align="center">
   
