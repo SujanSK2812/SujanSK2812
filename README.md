@@ -98,11 +98,11 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-
-<!-- <p align="center">
+#Github Stats
+<p align="center">
   
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SujanSK2812&theme=tokyonight&hide_border=true" />
-</p> -->
+</p> 
 
 ---
 
