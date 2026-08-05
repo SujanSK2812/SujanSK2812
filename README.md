@@ -98,11 +98,9 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 
 ---
 
-#Github Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSK2812&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SujanSK2812&show_icons=true&theme=tokyonight)
 #  LeetCode
 
 <p align="center">
