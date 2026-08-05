@@ -99,8 +99,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 ---
 
 ##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SujanSK2812&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SujanSK2812&theme=tokyonight&hide_border=true)
 #  LeetCode
 
 <p align="center">
