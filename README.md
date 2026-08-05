@@ -99,7 +99,10 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 ---
 
 ##  GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=SujanSK2812&theme=tokyonight&hide_border=true)
+
+## LeetCode
 #  LeetCode
 
 <p align="center">
