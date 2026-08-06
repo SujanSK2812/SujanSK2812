@@ -97,7 +97,7 @@ Daily LeetCode and GeeksforGeeks solutions implemented in Python.
 - 📚 Become a Better Software Engineer
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SujanSK2812)](https://git.io/streak-stats)
 #  LeetCode
 
 <p align="center">
