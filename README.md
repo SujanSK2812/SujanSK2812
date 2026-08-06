@@ -15,7 +15,7 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 </p>
 
 ---
-
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 #  About Me
 
 I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**.
