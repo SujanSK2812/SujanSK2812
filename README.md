@@ -18,7 +18,7 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 
 #  About Me
 
-I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**.
+I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**
 
 Currently working as a **Business Development Intern at Swizosoft Private Limited**, where I've strengthened my communication, stakeholder management, and problem-solving skills.
 
