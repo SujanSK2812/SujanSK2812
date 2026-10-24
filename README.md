@@ -19,20 +19,7 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 
 #  About Me
 
-I'm a passionate Backend Developer specializing in Python, Django, REST APIs, PostgreSQL, and Web Application Development.
-
- Currently working as a Software Development Intern at Swizosoft Private Limited.
-
- Passionate about building scalable, secure, and efficient backend systems.
-
- Experienced in developing web applications, RESTful APIs, and database-driven solutions.
-
- Actively improving my Data Structures & Algorithms (DSA) skills through LeetCode and GeeksforGeeks.
-
- Continuously learning backend architecture, system design, and software engineering best practices.
-
- Aspiring to become a Software Developer and contribute to impactful real-world projects.
----
+I'm a passionate Backend Developer with a strong foundation in Python, Django, Flask, REST APIs, PostgreSQL, and Web Application Development. Currently working as a Software Development Intern at Swizosoft Private Limited, where I'm gaining hands-on experience in building real-world applications and strengthening my software development and problem-solving skills. I enjoy developing scalable, secure, and efficient backend systems while continuously expanding my knowledge of modern technologies and software engineering best practices. I'm also actively improving my Data Structures and Algorithms (DSA) skills through consistent practice on LeetCode and GeeksforGeeks, with the goal of growing as a skilled Software Engineer and contributing to impactful projects.
 
 ##  Currently Learning
 
