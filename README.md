@@ -15,7 +15,12 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 </p>
 
 ---
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SujanSK2812&theme=dark&hide_border=false&timezone=Asia/Kolkata"
+    alt="GitHub Streak Stats"
+  />
+</p>
 #  About Me
 
 I'm a **Python Backend Developer** passionate about building scalable web applications using **Django**, **REST APIs**, and **PostgreSQL**
