@@ -26,7 +26,6 @@ I'm a passionate Backend Developer with a strong foundation in Python, Django, F
 - System Design
 - Software Architecture
 - AWS Cloud
-- Design Patterns
 - High-Level Design (HLD)
 - Low-Level Design (LLD)
 
