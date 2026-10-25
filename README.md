@@ -9,12 +9,13 @@ Building scalable backend systems, RESTful APIs, and modern web applications.
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=SujanSK2812&label=Profile%20views&color=0078D4&style=for-the-badge" alt="Profile Views" />
+
 <a href="https://linkedin.com/in/sujan-v-l-a91842300">LinkedIn</a> •
 <a href="https://sujansk2812.github.io/s-portfolio">Portfolio</a> •
 <a href="mailto:sujanshettysk28@gmail.com">Email</a>
 
-  <img src="https://komarev.com/ghpvc/?username=SujanSK2812&label=Profile%20views&color=0078D4&style=for-the-badge" alt="Profile Views" />
-
+  
 </p>
 
 
