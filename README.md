@@ -39,10 +39,10 @@
 I am a passionate **Backend Developer** and **Software Engineer** specializing in Python, Django, RESTful APIs, and database engineering. Currently working as a **Software Development Intern at Swizosoft Private Limited**, where I build, optimize, and maintain real-world applications with high scalability and security standards.
 
 - **Current Role:** Software Development Intern at **Swizosoft Private Limited**
-- **Core Focus:** Scalable Backend Architecture, REST APIs, Microservices, and Database Optimization
-- **DSA & Problem Solving:** Actively solving algorithmic challenges on LeetCode & GeeksforGeeks
-- **Currently Learning:** System Design (HLD & LLD), Cloud Engineering (AWS), and Distributed Systems
-- **Career Goal:** Engineering resilient, high-throughput software and contributing to open-source projects
+- **Core Focus:** Scalable Backend Architecture, REST APIs, Microservices, and Database Optimization.
+- **DSA & Problem Solving:** Actively solving algorithmic challenges on LeetCode & GeeksforGeeks.
+- **Currently Learning:** System Design (HLD & LLD), Cloud Engineering (AWS), and Distributed Systems.
+- **Career Goal:** Engineering resilient, high-throughput software and contributing to open-source projects.
 
 ---
 
