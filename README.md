@@ -49,15 +49,20 @@ I am a passionate **Backend Developer** and **Software Engineer** specializing i
 ## Tech Stack
 
 ### Languages
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -69,6 +74,9 @@ I am a passionate **Backend Developer** and **Software Engineer** specializing i
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,6 +89,8 @@ I am a passionate **Backend Developer** and **Software Engineer** specializing i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=google&logoColor=white)
 &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
@@ -97,9 +107,16 @@ I am a passionate **Backend Developer** and **Software Engineer** specializing i
 &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 &nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 &nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Design Tools
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A859?style=for-the-badge&logo=coreldraw&logoColor=white)
+&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -109,7 +126,8 @@ I am a passionate **Backend Developer** and **Software Engineer** specializing i
 | :--- | :--- | :--- |
 | **Freelancer Hiring & Project Portal** | Comprehensive platform connecting clients and freelancers featuring role-based authentication, project bidding, milestone tracking, and secure communications. | `Python` `Django` `REST API` `PostgreSQL` |
 | **Crowdfunding Portal** | Full-featured crowdfunding system supporting campaign creation, backer pledge management, and transparent donation tracking. | `Python` `Django` `REST API` `SQLite/PostgreSQL` |
-| **DSA & Problem Solving** | Daily curated solutions to algorithmic challenges on LeetCode and GeeksforGeeks with comprehensive complexity analysis. | `Python` `Data Structures` `Algorithms` |
+| **ExamPlatform** | A Flask-based online examination platform featuring role-based authentication, exam scheduling, automated submissions, result management, and secure digital assessment workflows. | `Python` `Data Structures` `Algorithms` `role-based-authentication` `exam-management-system`|
+| **UberClone** | An Uber-inspired ride-hailing web application customized from an open-source project, featuring real-time driver tracking, nearby driver discovery, user authentication, ride booking, and trip management. | `uber-clone` `ride-hailing` `real-time-tracking` `driver-location` `nextjs` `typescript` `maps-integration` `web-application` `open-source`|
 
 ---
 
